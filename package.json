@@ -1,0 +1,17 @@
+{
+  "name": "messdaten",
+  "version": "1.0.0",
+  "description": "Messdaten in Google Spreadsheet speichern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^20.0.1",
+    "node-datetime": "^1.0.1",
+    "node-rest-client": "^3.1.0"
+  }
+}
